@@ -65,7 +65,7 @@ input {
 }
 """
     return (
-        "<html><head><title>DMS</title><style>%s</style></head><body>%s</body></html>"
+        "<html><head><title>Aliasverwaltung</title><style>%s</style></head><body>%s</body></html>"
         % (s, "\n".join(l))
     )
 
